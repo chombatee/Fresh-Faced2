@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="creambrown">#F4F3F1</color>
+    <color name="pinkback">#F3B7CE</color>
+    <color name="pinckbckground">#F5DEE6</color>
+    <color name="piink">#E2ACC1</color>
+    <color name="pink">#FA77A9</color>
+    <color name="darkGrey">#616161</color>
+    <color name="lightGrey">#cfcfcf</color>
+    <color name="lightPink">#eddffb</color>
+    <color name="PINK">#faf2fe</color>
+    <color name="purple">#7b33f0</color>
+
+
+</resources>

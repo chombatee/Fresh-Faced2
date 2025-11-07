@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreshFace2</string>
+    <string name="welcome_to_beauty_s_n_best_kept_secret">Welcome to Beauty\'s\n Best Kept Secret</string>
+    <string name="get_started">Get Started</string>
+    <string name="search">Search</string>
+    <string name="explore_skincare_categories">Explore SkinCare Categories</string>
+    <string name="see_all">See all</string>
+    <string name="explore_skincare_categories1">Explore Skincare Categories</string>
+</resources>

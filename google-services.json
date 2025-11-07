@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409469173887",
+    "project_id": "freshface2",
+    "storage_bucket": "freshface2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409469173887:android:54d51d0c3fd49f57ff7f4a",
+        "android_client_info": {
+          "package_name": "com.example.freshface2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsu3uBwG1Zj2-k3ls3942y5uMPo8mSI2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

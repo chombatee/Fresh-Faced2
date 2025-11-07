@@ -1,0 +1,126 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/deduqnuil/image/upload/v1762514057/banner-theordinary-1200x300_ecd43o.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/deduqnuil/image/upload/v1762514049/innisfreebanner-1-23_qktsff.jpg"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "All"
+    },
+    {
+      "id": 1,
+      "title": "Oily Skin"
+    },
+    {
+      "id": 2,
+      "title": "Dry Skin"
+    },
+    {
+      "id": 3,
+      "title": "Combination Skin"
+    },
+    {
+      "id": 4,
+      "title": "Make Up"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "1",
+      "description": "Blance the Glow: Care for Oily Skin\n\nOily skin deserves care that refines, not restricts. The key is balance. We have carefully curated a routine that will keep your natural radiance while minimizing excess shine. This includes purifying face washes that gently clear buildup and refresh your complexion. Included are some light, oil-free serums that will nourish the skin without heaviness, and a hydrating moisturizer completes your routine. ENJOY!",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1760606487/1_2_e4hsa4.jp",
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762508781/foamingcleanser_js959x.jpg",
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762510236/niacinamide_v70ckc.png",
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762511118/CeraVe-Daily-Moisturizing-Lotion-236ml_kmxyh8.jpg",
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762423548/sunscreenlarocheposey_cqyn2r.jpg"
+      ],
+      "price": 235,
+      "rating": 4.6,
+      "showRecommended": true,
+      "title": "Cerave Foaming Cleanser"
+    },
+    {
+      "categoryId": "1",
+      "description": "CeraVe Foaming Facial Cleanser features ceramides, hyaluronic acid, and niacinamide, and is formulated to help maintain your skin’s protective barrier, lock in moisture, and calm your skin.",
+      "picUrl": [
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762508781/foamingcleanser_js959x.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "showRecommended": true,
+      "title": "The Ordinary Niacinamide 10% + Zinc 1%"
+    },
+    {
+      "categoryId": "1",
+      "description": "Niacinamide 10% + Zinc 1% serum is a water-based formula that delivers multiple niacinamide benefits to enhance skin brightness, improve texture, and strengthen the skin's moisture barrier. This serum with niacinamide (vitamin B3) contains a high concentration (10%) as well as Zinc PCA to target dullness, uneven texture, and excess oil. Niacinamide 10% + Zinc 1% also helps reduce the appearance of pores and instantly boosts skin radiance.",
+      "picUrl": [
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762510236/niacinamide_v70ckc.png"
+      ],
+      "price": 255,
+      "rating": 4.6,
+      "showRecommended": true,
+      "title": "Cerave Moisturising Lotion"
+    },
+    {
+      "categoryId": "1",
+      "description": "This CeraVe Moisturising Lotion 236ml is a lightweight formula designed for both the face and body, providing immediate and sustained hydration for up to 24 hours. Enriched with three essential ceramides (1, 3, and 6-ii) and Hyaluronic Acid, it works to restore and maintain the skin's natural barrier while helping the skin retain its natural moisture.",
+      "picUrl": [
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762511118/CeraVe-Daily-Moisturizing-Lotion-236ml_kmxyh8.jpg"
+      ],
+      "price": 399.99,
+      "rating": 4.8,
+      "showRecommended": true,
+      "title": "La Roche Posay Anthelios Uv"
+    },
+    {
+      "categoryId": "1",
+      "description": "La Roche-Posay Anthelios Uvmune Flu Id SPF50+ 50ml offers ultimate protection to help guard against UV induced damage, including ultra-long UVA rays. This very high protection sunscreen is ultra-resistant, making it suitable for use during activities involving water, sweat, or sand. The texture is invisible, lightweight, non-greasy, and has been developed to avoid eye stinging.",
+      "picUrl": [
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762423548/sunscreenlarocheposey_cqyn2r.jpg"
+      ],
+      "price": 375,
+      "rating": 4.6,
+      "showRecommended": false,
+      "title": "La Roche Posay Lipikar Balm Apm"
+    },
+    {
+      "categoryId": "1",
+      "description": "La Roche-Posay, a pioneer in microbiome science, has developed LIPIKAR Balm AP+M with a new formula that restores the skin barrier function. This balm provides immediate soothing, reduces the frequency of dry skin flare-ups, and helps to rebalance the skin's microbiome. It offers up to 48 hours of hydration, effectively reducing itching sensations caused by dry skin for long-lasting comfort.",
+      "picUrl": [
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762512310/La_Roche_Posay_Lipikar_Balm_esyik3.jpg"
+      ],
+      "price": 95,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "La Roche Posay Lipikar Balm"
+    },
+    {
+      "categoryId": "1",
+      "description": "The Physiological Micellar Solution acts as a fresh cleansing solution and make-up remover in one, for face and eyes. It is a gentle cleanser which removes make-up and eliminates impurities in one step. It is specifically formulated for all types of sensitive skin. Instructions: Use morning and/or evening. Soak a cotton pad with the purifying micellar water and use it to clean the face and neck.",
+      "picUrl": [
+        "https:/La Roche Posay Effaclar Micellar Water"
+      ],
+      "price": 325,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "La Roche Posay Effaclar Foaming"
+    },
+    {
+      "categoryId": "1",
+      "description": "The La Roche-Posay Effaclar Foaming Gel is a high-tolerance foaming cleanser ideal for managing oily and blemish-prone skin. Its formula gently purifies the skin while effectively eliminating excess oil. Key ingredients include Zinc PCA, which helps reduce sebum production and offers anti-bacterial properties, and Thermal Spring Water to soothe and calm the skin.",
+      "picUrl": [
+        "https://res.cloudinary.com/deduqnuil/image/upload/v1762512838/La_Roche_Posay_Effaclar_Foaming_Gel_zceqmq.jpg"
+      ],
+      "price": 295,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "La Roche Posay Effaclar Foaming Gel"
+    }
+  ]
+}
