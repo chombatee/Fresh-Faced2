@@ -1,2 +1,4 @@
-# Fresh-Faced2
-Fresh Faced is a lightweight application 
+Fresh Faced Does not Gatekeep that why this is the app for you Fresh Faced is a lightweight application that will help you to create a personalized skincare routine based on your skin type and you skin concerns ,and will suggest and recommend good products that are bidget friendly fresh faced is also you girls girl guide to good makeup products based on the look you would like to achieve these looks will all be suited to their skin tone and undertones FF will create budget friendly makeup product with s with links to good make up tutorial from YouTube based on preferences and suggestions
+Skin Oily the Glow: Care for Oily Skin Oily skin deserves care that refines, not restricts. The key is balance. We have carefully curated a routine that will keep your natural radiance while minimizing excess shine. This includes purifying face washes that gently clear buildup and refresh your complexion. Included are some light, oil-free serums that will nourish the skin without heaviness, and a hydrating moisturizer completes your routine. ENJOY!
+Dry skin craves comfort and lasting hydration. The goal is to replenish moisture and restore softness, leaving your skin feeling supple and luminous.
+
